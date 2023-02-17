@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Humberto Diaz
 - 👀 I’m interested in web development, machine learning, and AI .
-- 🌱 I’m currently learning the Ruby on the Rails framework through The Odin Project curriculum 
+-    Ruby on the Rails developer
 - 💞️ I’m looking to start contributing to more open source Rails projects 
 - 📫 Message me here if you want to chat. 
 <!---
