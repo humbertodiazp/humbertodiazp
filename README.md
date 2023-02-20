@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Humberto Diaz
-- 👀 I’m interested in web development, machine learning, and AI .
--    Ruby on the Rails developer
+- 👀 I’m interested in Ruby on the Rails, machine learning, and AI.
 - 💞️ I’m looking to start contributing to more open source Rails projects 
 - 📫 Message me here if you want to chat. 
 <!---
