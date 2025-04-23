@@ -36,7 +36,7 @@
 ### 🌟  Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Product App** | End‑to‑end Rails & React application for product lifecycle analytics. | Rails · React · PostgreSQL |
+| **Product App** | End‑to‑end Rails & React application for product lifecycle analytics. | Rails · Mongoid · MongoDB Atlas |
 | **Autom8te Excel** | Python toolset that automates complex Excel workflows for supply‑chain analytics. | Python · pandas · openpyxl |
 | **YouTube Shorts Generator** | Workflow that automates creation of monetized Shorts with AI voiceovers & captions. | n8n · Node.js · FFmpeg |
 
@@ -45,9 +45,9 @@
 ---
 
 ### 🤝  Let’s Connect
-- 💬 **Talk data, Rails, or ML:** open an issue, start a discussion, or DM me on Twitter [@HumbertoData](https://twitter.com/HumbertoData)  
-- ✉️ **Email:** humberto.diazp (at) gmail (dot) com  
-- 📝 **Blog:** [humbertodiaz.dev](https://humbertodiaz.dev)
+- 💬 **Talk data, Rails, or ML:** open an issue, start a discussion, or DM me)  
+- ✉️ **Email:** humberto.diaz.p@gmail.com  
+
 
 ---
 
