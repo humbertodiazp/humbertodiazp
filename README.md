@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi there, I’m Humberto! 👋</h1>
 <p align="center">
-  <em>Data analyst · Full‑stack enthusiast · Lifelong learner</em>
+  <em>Data Engineer · Full‑stack enthusiast · Lifelong learner</em>
 </p>
 
 ---
 
 ### 🚀  About Me
-- 🔭 **Data Analyst** with a knack for turning messy datasets into clear, actionable insights.  
+- 🔭 **Data Engineer** with a knack for turning messy datasets into clear, actionable insights.  
 - 💻 **Tech Stack:** Python (pandas, NumPy, scikit‑learn), SQL, Ruby, Ruby on Rails, JavaScript (ES6+), HTML/CSS.  
 - 🧠 Currently exploring the intersection of **machine learning & web development**—from predictive models to full‑stack apps.  
 - 🌱 Always learning: cloud data engineering, AI agents, and creative data‑driven storytelling.  
